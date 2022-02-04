@@ -1,4 +1,4 @@
-## Hi there! 👋 Welcome to my GitHub [<img alt="Paul Schunck | LinkedIn" width="32px" src="./linkedin.svg?v3" />][linkedin]
+## Hi there! 👋 Welcome to my GitHub&nbsp;&nbsp;[<img alt="Paul Schunck | LinkedIn" height="24" src="./linkedin.svg?v3" />][linkedin]
 
 
 ### GitHub Stats ![Repos Badge](https://badges.pufler.dev/repos/sjoenk?logo=git&logoColor=white) ![Years Badge](https://badges.pufler.dev/years/sjoenk?logo=google-calendar&logoColor=white)
