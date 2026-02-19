@@ -39,17 +39,13 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/sjoenk/unitune">
-        <img src="https://img.shields.io/badge/-UniTune-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="UniTune" />
-      </a>
+      <img src="https://img.shields.io/badge/-UniTune-8B5CF6?style=for-the-badge&logoColor=white" alt="UniTune" />
       <br />
       <sub><b>Creator</b></sub>
       <br />
       <sub>Synchronized multi-device audio playback app. P2P discovery via mDNS, real-time clock sync, and multi-track mixing.</sub>
       <br />
-      <sub>
-        <a href="https://github.com/sjoenk/unitune">Source</a>
-      </sub>
+      <sub><i>Coming soon</i></sub>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/sjoenk/audio_decoder">
