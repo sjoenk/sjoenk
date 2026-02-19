@@ -104,15 +104,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=sjoenk&include_all_commits=true&count_private=true&theme=tokyonight&show_icons=true&hide_border=true&border_radius=8" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjoenk&include_all_commits=true&count_private=true&theme=tokyonight&show_icons=true&hide_border=true&border_radius=8&layout=compact&langs_count=8" height="170" alt="Top Languages" />
-</div>
-
----
-
 ### 📬 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/-Paul_Schunck-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/paul-schunck/)
